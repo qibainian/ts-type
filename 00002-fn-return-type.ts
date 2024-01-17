@@ -14,3 +14,5 @@ type fnA = MyReturnType<typeof fn1>;
 const fn2 = (v: boolean) => { return v ? false : Symbol(1) };
 /** 应推导出 false | symbol */
 type fnB = MyReturnType<typeof fn2>;
+/** 内置ReturnType 应推导出 false | symbol */
+type fnC = ReturnType<typeof fn2>;
