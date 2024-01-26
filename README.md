@@ -5,3 +5,4 @@ personal ts-type challenges from https://github.com/type-challenges.
 - **ReturnType**
 - **Parameters**
 - **Awaited**
+- **Exclude**
