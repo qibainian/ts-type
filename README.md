@@ -6,3 +6,4 @@ personal ts-type challenges from https://github.com/type-challenges.
 - **[Parameters](https://github.com/qibainian/ts-type/blob/main/03312-parameters.ts)**
 - **[Awaited](https://github.com/qibainian/ts-type/blob/main/00189-awaited.ts)**
 - **[Exclude](https://github.com/qibainian/ts-type/blob/main/00043-exclude.ts)**
+- **[Readonly](https://github.com/qibainian/ts-type/blob/main/00007-readonly.ts)**
