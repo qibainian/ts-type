@@ -7,3 +7,4 @@ personal ts-type challenges from https://github.com/type-challenges.
 - **[Awaited](https://github.com/qibainian/ts-type/blob/main/00189-awaited.ts)**
 - **[Exclude](https://github.com/qibainian/ts-type/blob/main/00043-exclude.ts)**
 - **[Readonly](https://github.com/qibainian/ts-type/blob/main/00007-readonly.ts)**
+- **[Pick](https://github.com/qibainian/ts-type/blob/main/00004-pick.ts)**
