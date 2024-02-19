@@ -8,3 +8,4 @@ personal ts-type challenges from https://github.com/type-challenges.
 - **[Exclude](https://github.com/qibainian/ts-type/blob/main/00043-exclude.ts)**
 - **[Readonly](https://github.com/qibainian/ts-type/blob/main/00007-readonly.ts)**
 - **[Pick](https://github.com/qibainian/ts-type/blob/main/00004-pick.ts)**
+- **[Omit](https://github.com/qibainian/ts-type/blob/main/00003-omit.ts)**
